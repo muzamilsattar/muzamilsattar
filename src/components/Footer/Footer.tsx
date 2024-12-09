@@ -10,9 +10,9 @@ import instagramIcon from "../../assets/instagram.svg";
 export function Footer() {
   return (
     <Container className='footer'>
-      <a href='https://muzamilsattar.netlify.app' target='_blank' className='logo'>
-        <span>www.Muzamil</span>
-        <span>Sattar.netlify</span>
+      <a href='https://muzamilsattar.vercel.app' target='_blank' className='logo'>
+        <span>www.muzamil</span>
+        <span>sattar.netlify</span>
       </a>
       <div>
         <p>
