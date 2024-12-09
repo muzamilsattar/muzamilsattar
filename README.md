@@ -1,34 +1,3 @@
-// import { Container } from "./styles";
-// import emailIcon from "../../assets/email-icon.svg";
-// import phoneIcon from "../../assets/phone-icon.svg";
-// import { Form } from "../Form/Form";
-
-// export function Contact() {
-//   return (
-//     <Container id='contact'>
-//       <header>
-//         <h2>Contact</h2>
-//         <p>Ready to get started on your project? </p>
-//         <p>Contact me now for a Free consultation.</p>
-//       </header>
-//       <div className='contacts'>
-//         <div>
-//           <a href='mailto:muhammadmuzamil9277@gmail.com'>
-//             <img src={emailIcon} alt='Email' />
-//           </a>
-//           <a href='mailto:muhammadmuzamil9277@gmail.com'>muhammadmuzamil9277@gmail.com</a>
-//         </div>
-//         <div>
-//           <a href='tel:+923086783310'>
-//             <img src={phoneIcon} alt='Phone No' />
-//           </a>
-//           <a href='tel:+923086783310'>(+92) 3086783310</a>
-//         </div>
-//       </div>
-//       <Form></Form>
-//     </Container>
-//   );
-// }
 
 [![LeetCode user muzamilsattar](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmuzamilsattar&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/muzamilsattar/)
 
@@ -43,10 +12,10 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### About Me🚀:
-Hi there! I'm Haris Ghaffar, a dynamic software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"/> hailing from Pakistan. Passionate about breaking new ground in technology, I've had the honor of my FYP, Fire Guard, securing Ignite Funding from the Ministry of IT & Telecom of Pakistan. I thrive on innovation, love collaborating on exciting projects, and am always eager to create solutions that make a real impact. Let’s connect and turn ideas into reality! 💻
+Hi there! I'm Muzamil Sattar, a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"/> hailing from Pakistan. Passionate about breaking new ground in technology, i am always eager to create solutions that make a real impact. Let’s connect and turn ideas into reality! 💻
 
 <!-- Bio -->
-- 🔭 Currently working as Software Engineer.
+- 🔭 Currently working as Front-End Developer.
 - 👨‍🏫 Student at <a href="https://icodeguru.weebly.com/" target="_blank">iCodeGuru</a>.
 - 🌱 Love to Participate in hackathons.
 - 🌱 I love to tackle complex Data Structures and Algorithms problems
