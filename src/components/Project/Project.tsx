@@ -179,9 +179,10 @@ export function Project() {
               </div>
             </header>
             <div className='body'>
-              <h3></h3>
+              <h3>OMDb Movie Search and Watchlist App</h3>
               <p>
-                The omdb movies searching app made in react-js for searching movies and add to their watchlist 
+               A React.js app to search for movies using the OMDb API and add them to a personalized watchlist. Discover, 
+                organize, and track your favorite movies effortlessly!
               </p>
             </div>
             <footer>
