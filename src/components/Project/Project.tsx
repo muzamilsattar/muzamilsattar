@@ -170,29 +170,27 @@ export function Project() {
                 <path d='M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z'></path>
               </svg>
               <div className='project-links'>
-                <a href='#' target='_blank' rel='noreferrer'>
+                <a href='https://github.com/muzamilsattar/muzamilsattar' target='_blank' rel='noreferrer'>
                   <img src={githubIcon} alt='Visit site' />
                 </a>
-                <a href='#' target='_blank' rel='noreferrer'>
+                <a href='https://movieezverse.vercel.app/' target='_blank' rel='noreferrer'>
                   <img src={externalLink} alt='Visit site' />
                 </a>
               </div>
             </header>
             <div className='body'>
-              <h3>MediBook: Medical Appointment Scheduler with Health History</h3>
+              <h3></h3>
               <p>
-                Developed a secure medical appointment management platform with CRUD functionality,
-                utilizing role-based access control, encryption techniques, and a robust MySQL
-                database with normalized schema design and stored procedures for efficient
-                scheduling, data privacy, and reliable retrieval of patient records.
+                The omdb movies searching app made in react-js for searching movies and add to their watchlist 
               </p>
             </div>
             <footer>
               <ul className='tech-list'>
-                <li>PHP</li>
-                <li>HTML</li>
+                <li>omdb ID</li>
+                <li>React-js</li>
+              
                 <li>CSS</li>
-                <li>MySQL</li>
+                <li>Vercel</li>
               </ul>
             </footer>
           </div>
