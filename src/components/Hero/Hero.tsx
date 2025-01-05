@@ -8,6 +8,8 @@ import githubIcon from "../../assets/github.svg";
 import whatsapp from "../../assets/whatsapp.svg";
 import Hello from "../../assets/Hello.gif";
 import telegram from "../../assets/telegram.svg";
+import person from "../../assets/person.gif";
+
 export function Hero() {
   return (
     <Container id='home'>
@@ -24,7 +26,12 @@ export function Hero() {
           <h3>Front-End Developer</h3>
         </ScrollAnimation>
         <ScrollAnimation animateIn='fadeInUp' delay={0.6 * 1000}>
-          <p className='small-resume'>1 Years of Experience</p>
+          <p className='small-resume'>
+            1 Years of Experience{" "}
+            <span>
+              <img width={20} src={person} alt='Ilustração' />
+            </span>
+          </p>
         </ScrollAnimation>
         <ScrollAnimation animateIn='fadeInUp' delay={0.8 * 1000}>
           <BrowserRouter>
