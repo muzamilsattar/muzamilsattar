@@ -1,8 +1,17 @@
+<<<<<<< HEAD
 import { Container, ContainerSucces } from "./styles";
 import { useForm, ValidationError } from "@formspree/react";
 import { toast, ToastContainer } from "react-toastify";
 import { useEffect, useState } from "react";
 import validator from "validator";
+=======
+import { Container, ContainerSucces } from './styles'
+import { useForm, ValidationError } from '@formspree/react'
+import { toast, ToastContainer } from 'react-toastify'
+
+import { useEffect, useState } from 'react'
+import validator from 'validator'
+>>>>>>> 53dfed4d5e08db8f8fc9e612d0009d680195fde3
 
 export function Form() {
   const [state, handleSubmit] = useForm("xknkpqry");
@@ -70,6 +79,7 @@ export function Form() {
           field="message"
           errors={state.errors}
         />
+<<<<<<< HEAD
         <ReCAPTCHA
           sitekey="6Lfj9NYfAAAAAP8wPLtzrsSZeACIcGgwuEIRvbSg"
           onChange={(e) => {
@@ -77,6 +87,13 @@ export function Form() {
           }}
         ></ReCAPTCHA> */}
         <button type='submit' disabled={state.submitting || !validEmail || !message || !isHuman}>
+=======
+       
+        <button
+          type="submit"
+          disabled={state.submitting || !validEmail || !message }
+        >
+>>>>>>> 53dfed4d5e08db8f8fc9e612d0009d680195fde3
           Submit
         </button>
       </form>

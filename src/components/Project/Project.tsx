@@ -170,7 +170,11 @@ export function Project() {
                 <path d='M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z'></path>
               </svg>
               <div className='project-links'>
+<<<<<<< HEAD
                 <a href='https://github.com/muzamilsattar/movies' target='_blank' rel='noreferrer'>
+=======
+                <a href='https://github.com/muzamilsattar/muzamilsattar' target='_blank' rel='noreferrer'>
+>>>>>>> 53dfed4d5e08db8f8fc9e612d0009d680195fde3
                   <img src={githubIcon} alt='Visit site' />
                 </a>
                 <a href='https://movieezverse.vercel.app/' target='_blank' rel='noreferrer'>
@@ -179,6 +183,7 @@ export function Project() {
               </div>
             </header>
             <div className='body'>
+<<<<<<< HEAD
               <h3>Movies Searhing Website in React-Js</h3>
               <p>
                 {/* movies searching and adding to watch list app in react */}
@@ -186,14 +191,28 @@ export function Project() {
                 OMDB API to fetch movie data and allows users to add movies to their watch list. The
                 app also features a search bar to filter movies by title and a pagination feature to
                 display a limited number of movies per page.
+=======
+              <h3>OMDb Movie Search and Watchlist App</h3>
+              <p>
+               A React.js app to search for movies using the OMDb API and add them to a personalized watchlist. Discover, 
+                organize, and track your favorite movies effortlessly!
+>>>>>>> 53dfed4d5e08db8f8fc9e612d0009d680195fde3
               </p>
             </div>
             <footer>
               <ul className='tech-list'>
+<<<<<<< HEAD
                 <li>React-Js</li>
                 <li>HTML</li>
                 <li>CSS</li>
                 <li>Fetch API</li>
+=======
+                <li>omdb ID</li>
+                <li>React-js</li>
+              
+                <li>CSS</li>
+                <li>Vercel</li>
+>>>>>>> 53dfed4d5e08db8f8fc9e612d0009d680195fde3
               </ul>
             </footer>
           </div>
